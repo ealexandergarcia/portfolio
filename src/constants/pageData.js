@@ -66,6 +66,7 @@ export const SKILLS_LIST = {
     { url: 'icons/express-js.png', websiteURL: null },
     { url: 'icons/mongo.png', websiteURL: null },
     { url: 'icons/vue.png', websiteURL: null },
+    { url: 'icons/blender.png', websiteURL: null },
   ],
 };
 

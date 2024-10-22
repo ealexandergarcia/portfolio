@@ -37,9 +37,9 @@ const configs = {
       displayAt: displayAt('Experience'),
       rotation: [0, -Math.PI / 2, 0],
       position: [-PAGE_DEPH_MARGIN, 0, 0],
-      title: 'Experience',
+      title: 'Experiencia',
       imageList: EXPERIENCE,
-      footer: 'You can click the icons to find out more.',
+      footer: 'Puede hacer clic en los iconos',
     },
     {
       scale: 15,
@@ -55,8 +55,8 @@ const configs = {
       displayAt: displayAt('Download CV'),
       rotation: [0, 0, 0],
       position: [0, 0, PAGE_DEPH_MARGIN],
-      title: 'Here is my CV!',
-      footer: 'Click the icon above to view!',
+      title: 'Este es mi CV!',
+      footer: 'Haga clic en el icono de arriba para ver!',
       imageList: {
         rows: 1,
         separation: 3,
@@ -67,7 +67,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://docs.google.com/document/d/1wKGkXHhd7q5v3AOGPMK6Gtehpp_Tkp90BvUufUqQIRc/edit?usp=sharing',
+              'https://docs.google.com/document/d/1TtV7WUyLmxhsBJh8SR5TEZmczq2Mdbyo/edit?usp=sharing&ouid=101978054952609176075&rtpof=true&sd=true',
           },
         ],
       },
@@ -77,42 +77,13 @@ const configs = {
       displayAt: displayAt('Personal Projects'),
       rotation: [Math.PI / 2, 0, 0],
       position: [0, -PAGE_DEPH_MARGIN, 0],
-      title: 'Personal Projects',
-      footer: '(And also this web-app)',
-      imageList: {
-        rows: 2,
-        separation: 2.5,
-        leftPadding: -0.4,
-        topPadding: 0.2,
-        scale: 0.3,
-        items: [
-          {
-            url: 'websites-preview/nft-place-logo.png',
-            websiteURL: 'https://nft-place.xyz/',
-          },
-          {
-            url: 'websites-preview/snow-hero.png',
-            websiteURL: 'https://powtom48.itch.io/snow-the-hero',
-          },
-          {
-            url: 'websites-preview/minecraft-in-js.png',
-            websiteURL:
-              'https://www.youtube.com/watch?v=yOUQquusyiY&t=123s&ab_channel=tomugon',
-          },
-          {
-            url: 'websites-preview/fish-chopter.png',
-            websiteURL: 'https://powtom48.itch.io/fishcopter',
-          },
-          {
-            url: 'websites-preview/odd-clowns.png',
-            websiteURL: 'https://oddclowns.com/',
-          },
-          {
-            url: 'websites-preview/island-ai.png',
-            websiteURL: 'https://www.instagram.com/island.ai/',
-          },
-        ],
-      },
+      title: '¿Quien soy?',
+      infos: [
+        "* Mision:",
+        " Crear aplicaciones web de alta calidad enfocadas en el usuario, utilizando tecnologías modernas y fomentando la colaboración para impulsar el éxito de mis clientes y la comunidad tecnológica.",
+        "* Vision: ",
+        "* Ser un referente en desarrollo web, ofreciendo soluciones innovadoras y accesibles que mejoren la experiencia del usuario y potencien el crecimiento de negocios.",
+    ],
     },
     {
       scale: 15,
@@ -129,21 +100,17 @@ const configs = {
         scale: 0.3,
         items: [
           {
-            url: 'icons/twitter.png',
-            websiteURL: 'https://twitter.com/kiter_js',
-          },
-          {
             url: 'icons/linkedin.png',
             websiteURL:
-              'https://www.linkedin.com/in/tomas-gonzalez-perez-8784a2133/',
+              'http://www.linkedin.com/in/ealexandergarcia',
           },
           {
             url: 'icons/github.png',
-            websiteURL: 'https://github.com/TomasGonzalez',
+            websiteURL: 'https://github.com/ealexandergarcia',
           },
           {
             url: 'icons/email.png',
-            websiteURL: 'mailto:tomasgp14@gmail.com',
+            websiteURL: 'mailto:egarciapame@gmail.com',
           },
         ],
       },

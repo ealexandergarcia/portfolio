@@ -1,10 +1,10 @@
 const theme = {
   colors: {
-    primary: 'green',
+    primary: 'cyan',
     primaryLight: 'white',
     stars: 'green',
     starsEmission: 'green',
-    light: 'cyan',
+    light: 'white',
     dark: 'black',
     contrast: 'yellow',
     cubeEmissionEdgeColor: { r: 0, g: 1, b: 1 }, // values should be from 0-1
