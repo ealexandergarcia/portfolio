@@ -47,7 +47,7 @@ const configs = {
       rotation: [-Math.PI / 2, 0, -Math.PI / 2],
       position: [0, PAGE_DEPH_MARGIN, 0],
       title: 'Skills',
-      footer: 'And more...',
+      footer: 'y mas...',
       imageList: SKILLS_LIST,
     },
     {
@@ -90,8 +90,8 @@ const configs = {
       displayAt: displayAt('Get In Touch'),
       rotation: [0, Math.PI / 2, 0],
       position: [PAGE_DEPH_MARGIN, 0, 0],
-      title: 'You can find me in:',
-      footer: 'Almost done but keep scrolling :)',
+      title: 'Puedes encontrarme en:',
+      footer: 'Ya casi está, pero sigue desplazándote :)',
       imageList: {
         rows: 2,
         separation: 1.8,
