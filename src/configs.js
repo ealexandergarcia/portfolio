@@ -7,7 +7,7 @@ import {
 } from './constants/pageData';
 
 const configs = {
-  title: 'Tomas Gonzalez',
+  title: 'Edwin Garcia',
   subTitle: 'Dev portfolio.',
   stars: {
     maxSize: 20,
@@ -16,7 +16,7 @@ const configs = {
     // url: 'icons/three-js-logo.png',
     dencity: 900,
   },
-  navTitle: 'Tomas Gonzalez portfolio.',
+  navTitle: 'Edwin Garcia portfolio.',
   relevantStops: STOPS,
   pages: [
     {
@@ -24,13 +24,13 @@ const configs = {
       rotation: [Math.PI, 0, Math.PI],
       position: [0, 0, -PAGE_DEPH_MARGIN],
       displayAt: displayAt('About'),
-      title: 'Who Am I?',
+      title: '¿Quien soy?',
       infos: [
-        "* I'm a maker, a curious thinker who enjoys learning and comprehending how things function.",
-        '* My journey as a software developer started when I was a just a kid trying to figure out how video games where made.',
-        '* I started my career as a front-end developer around 6 years ago in 2017, and since then I have helped many startup companies and non-profit organizations to develop quality products.',
-        '* I have a wide range of skills, of which I can say that I’ve mastered many.',
-      ],
+        "* Desarrollador de software con 2 años de experiencia en soluciones front-end y back-end.",
+        "* Soy un profesional orientado a resultados, siempre buscando optimizar procesos y mejorar la experiencia del usuario.",
+        "* Mi capacidad para adaptarme rápidamente a nuevas tecnologías y entornos me impulsa a enfrentar desafíos con entusiasmo.",
+        "* Me esfuerzo por orientar mis esfuerzos al logro y la mejora continua.",
+    ],
     },
     {
       scale: 15,

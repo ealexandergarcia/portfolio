@@ -24,22 +24,22 @@ export const EXPERIENCE = {
   },
   items: [
     {
-      url: 'websites-preview/optic-logo.png',
-      websiteURL: 'https://optic.id/',
+      url: 'websites-preview/rick.jpg',
+      websiteURL: 'https://ealexandergarcia.github.io/rickAndMorty/',
     },
     {
-      url: 'websites-preview/good-dollar.jpeg',
-      websiteURL: 'https://www.gooddollar.org/',
+      url: 'websites-preview/spaceX.jpeg',
+      websiteURL: 'https://ealexandergarcia.github.io/spaceX/#',
     },
     {
-      url: 'websites-preview/cs2.png',
+      url: 'websites-preview/todoa.png',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/cs.html', //optional open url in new tab
+        'https://ealexandergarcia.github.io/todoListo/',
     },
     {
-      url: 'websites-preview/knack-page.png',
+      url: 'websites-preview/virtualW.png',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/knack.html',
+        'https://ealexandergarcia.github.io/virtualWallet/index.html',
     },
     {
       url: 'websites-preview/magic.png',
@@ -56,18 +56,16 @@ export const SKILLS_LIST = {
   topPadding: 0.33,
   scale: 0.15,
   items: [
-    { url: 'icons/react-native.png', websiteURL: null },
+    
     { url: 'icons/react-logo.png', websiteURL: null },
-    { url: 'icons/ts-logo.png', websiteURL: null },
-    { url: 'icons/js-logo.png', websiteURL: null },
     { url: 'icons/css-logo.png', websiteURL: null },
     { url: 'icons/html-logo.png', websiteURL: null },
     { url: 'icons/node-js-logo.png', websiteURL: null },
     { url: 'icons/python-logo.png', websiteURL: null },
     { url: 'icons/three-js-logo.png', websiteURL: null },
-    { url: 'icons/jest-logo.png', websiteURL: null },
-    { url: 'icons/graph-ql-logo.png', websiteURL: null },
-    { url: 'icons/vim-logo.png', websiteURL: null },
+    { url: 'icons/express-js.png', websiteURL: null },
+    { url: 'icons/mongo.png', websiteURL: null },
+    { url: 'icons/vue.png', websiteURL: null },
   ],
 };
 
